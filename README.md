@@ -1,7 +1,7 @@
 
 Open Street Map London hack weekend August 2015
 
-TeamL: Pavel, Derek
+Team: Pavel, Derek
 
 Data is derived from [Land registry](https://www.gov.uk/government/organisations/land-registry) house sales.
 Information includes postcode, street and house number.
