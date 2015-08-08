@@ -31,6 +31,6 @@ The next step is to generate an overlay containing the data, so
 people can verify that particular house numbers are correct and
 upload them to the OSM servers.
 
-See dorectory Pavel for generating a file that osm.html can
+See directory Pavel for generating a file that osm.html can
 read to produce a demo overlay.
 
